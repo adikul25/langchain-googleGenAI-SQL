@@ -38,7 +38,7 @@ if navigation == "About":
     - Not all converted SQL commands may be accurate or suitable for execution.
     - Always review and verify the converted SQL command before executing it on your database.
     
-    For any queries or feedback, please contact support@example.com.
+    For any queries or feedback, please contact adikulkarni25@gmail.com.
     """)
 else:
     # Query execution tab content
