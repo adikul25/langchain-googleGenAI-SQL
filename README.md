@@ -39,14 +39,10 @@ This web application allows users to convert natural language queries into SQL c
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/natural-language-to-sql-converter.git
+    git clone https://github.com/adikul25/langchain-googleGenAI-SQL.git
     ```
 
 2. **Navigate to the Project Directory**
-
-    ```bash
-    cd natural-language-to-sql-converter
-    ```
 
 3. **Install Required Packages**
 
@@ -81,4 +77,4 @@ This web application allows users to convert natural language queries into SQL c
 - Not all converted SQL commands may be accurate or suitable for execution.
 - Always review and verify the converted SQL command before executing it on your database.
 
-For any queries or feedback, please contact support@example.com.
+For any queries or feedback, please contact adikulkarni25@gmail.com.
